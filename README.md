@@ -8,4 +8,4 @@ We leverage Convolutional Neural Networks (CNNs), exploring the VGG-16, VGG-19, 
 Results from model training and evaluation indicate that VGG-16 initially faced challenges with augmented data, prompting the addition of layers to improve performance significantly. Hyperparameter tuning further refines the models, with ResNet consistently outperforming VGG-16 and VGG-19.
 
 Looking ahead, future work involves real-time American Sign Language (ASL) gesture prediction using the trained models in conjunction with the Open Source Computer Vision Library (OpenCV). This advancement aims to bridge communication gaps by providing a smooth interface for ASL to English translation in real-time, fostering accessibility and inclusion. 
-![image](https://github.com/shivaanan/ML-fingerspelling-classification/assets/60564426/bf53c06d-e11e-4ea7-bcc8-9d502f746465)
+
